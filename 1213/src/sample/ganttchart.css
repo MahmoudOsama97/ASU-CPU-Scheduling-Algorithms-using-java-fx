@@ -1,0 +1,21 @@
+.status-red {
+    -fx-background-color:rgba(255,0,0,0.7);
+}
+.status-green {
+    -fx-background-color:rgba(0,255,0,0.7);
+}
+.status-blue {
+    -fx-background-color:rgba(0,0,255,0.7);
+}
+.status-yellow {
+    -fx-background-color:rgba(255,255,0,0.7);
+}
+.status-purple {
+    -fx-background-color:rgba(255,0,255,0.7);
+}
+.status-cyan {
+    -fx-background-color:rgba(0,255,255,0.7);
+}
+.status-grey {
+    -fx-background-color:rgba(128,128,128,0.7);
+}
